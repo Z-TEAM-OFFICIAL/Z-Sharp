@@ -1,0 +1,9 @@
+clss test
+    def main
+        win_title{test}
+        win_video{1220px, 1080px}
+        win_fps{120}
+        win_footer{#ffffff, 80px, win_w}
+        win_button{'f'button *prnt{rtdv54bt}* *{700px, 100px}* *{100px, 100px}*}
+
+boot_system{}

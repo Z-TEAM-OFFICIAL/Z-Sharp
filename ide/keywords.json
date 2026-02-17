@@ -1,0 +1,16 @@
+{
+    "system_name": "ZEGA Z# Language",
+    "version": "2.0.0.6-Stable",
+    "branding": "#58f01b",
+    "tiers": {
+        "keywords<1>": {
+            "color": "#58f01b",
+            "commands": [
+                "print",
+                "boot",
+                "boot_system",
+                "pass"
+            ]
+        }
+    }
+}
